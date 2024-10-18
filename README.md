@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MastaPhlash
-- 👀 I’m interested in cybersecurity.
+- 👋 Hi, I’m Luis
+- 👀 I’m interested in cybersecurity and project management.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 MastaPhlash/MastaPhlash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
