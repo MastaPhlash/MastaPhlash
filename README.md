@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis
+- 👋 Hi
 - 👀 I’m interested in cybersecurity and project management.
 - 🌱 I’m currently learning Python.
 
