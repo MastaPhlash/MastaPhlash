@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub
 
-I'm a U.S. Army NCOIC with over a decade of leadership experience, currently transitioning into cybersecurity and IT systems management. I specialize in **cybersecurity**, **project management**, and **data-driven solutions**, with a focus on enterprise security architecture and real-world implementation.
+I'm a System Administrator with over a decade of leadership experience, currently transitioning into cybersecurity and IT systems management. I specialize in **cybersecurity**, **project management**, and **data-driven solutions**, with a focus on enterprise security architecture and real-world implementation.
 
 ## 🔍 About Me
 - 🎓 I hold a Master of Science in Cybersecurity and a Bachelor of Science in Computer Information Systems.
@@ -16,7 +16,7 @@ I'm a U.S. Army NCOIC with over a decade of leadership experience, currently tra
 ## 🧰 Technical Toolkit
 - 💻 Languages: Python, HTML, SQL, Bash
 - 🔧 Platforms: Linux, Windows Server, VMware, Proxmox
-- 📦 Tools & Frameworks: Django, Flask, Git, REST APIs, Docker, Wazuh SIEM, ELK Stack
+- 📦 Tools & Frameworks: Django, Git, Docker, Wazuh SIEM, ELK Stack
 - 🧪 Labs: Cybersecurity detection & response, home-based NAS and virtualization environments
 
 ## 📈 Goals
