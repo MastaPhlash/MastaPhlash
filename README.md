@@ -1,33 +1,47 @@
-# 👋 Welcome to My GitHub
+👋 Welcome to My GitHub
+I'm a seasoned IT professional with over a decade of leadership experience and working as a systems administration. I am now transitioning into advanced cybersecurity and enterprise systems architecture. My focus is on developing secure, scalable, and resilient infrastructure solutions—blending technical depth with strategic oversight.
 
-I'm a System Administrator with over a decade of leadership experience, currently transitioning into cybersecurity and IT systems management. I specialize in **cybersecurity**, **project management**, and **data-driven solutions**, with a focus on enterprise security architecture and real-world implementation.
+🔍 About Me
+🎓 Education: Master of Science in Cybersecurity | Bachelor of Science in Computer Information Systems
 
-## 🔍 About Me
-- 🎓 I hold a Master of Science in Cybersecurity and a Bachelor of Science in Computer Information Systems.
-- 🛡️ Certified in ISACA CISM, CompTIA (A+, Net+, Sec+, CySA+, PenTest+, CASP+), ISC2 CC, and Microsoft (AZ-900, SC-900, MS-900).
-- 💼 Experienced in system administration, PACS/medical imaging systems, and managing large-scale healthcare IT operations.
-- 🧠 Currently exploring opportunities in cybersecurity leadership, systems architecture, and threat detection.
+🛡️ Certifications: ISACA CISM | CompTIA A+, Network+, Security+, CySA+, PenTest+, CASP+
+ISC2 Certified in Cybersecurity (CC) | Microsoft AZ-900, SC-900, MS-900
 
-## 🛠️ Currently Working On
-- Building a **web design portfolio** showcasing cybersecurity-themed tools and utilities.
-- Developing projects using **Django**, **JavaScript**, and **CSS** to sharpen full-stack development capabilities.
-- Implementing a home lab with **TrueNAS SCALE**, **Proxmox**, **Wazuh**, and other enterprise-grade tools for hands-on experimentation.
+💼 Experience:
 
-## 🧰 Technical Toolkit
-- 💻 Languages: Python, HTML, SQL, Bash
-- 🔧 Platforms: Linux, Windows Server, VMware, Proxmox
-- 📦 Tools & Frameworks: Django, Git, Docker, Wazuh SIEM, ELK Stack
-- 🧪 Labs: Cybersecurity detection & response, home-based NAS and virtualization environments
+Enterprise-level system administration
 
-## 📈 Goals
-- Transition into a **Cybersecurity** role.
-- Lead initiatives around **business strategy**, **information assurance**, and **secure IT transformation**.
-- Contribute to open-source projects that blend automation, security, and data science.
+PACS and medical imaging infrastructure
 
----
+Leadership of large-scale healthcare IT operations
 
-Thanks for stopping by. Let’s connect and collaborate on something impactful.
-<!---
-MastaPhlash/MastaPhlash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔎 Focus Areas: Cybersecurity architecture, threat detection and response, systems integration, and operational resilience
+
+🛠️ Current Projects
+Designing a web-based portfolio of cybersecurity utilities and proof-of-concept tools
+
+Building cybersecurity applications using Python
+
+Developing full-stack applications using Django, JavaScript, and CSS
+
+Building a modular home lab with TrueNAS SCALE, Proxmox, and Wazuh for experimentation in EDR, SIEM, and virtualization
+
+🧰 Technical Toolkit
+💻 Languages: Python, HTML/CSS, SQL, Bash
+
+⚙️ Platforms: Linux, Windows Server, ESXi, Proxmox
+
+🔍 Tools & Frameworks: Django, Docker, Git, Wazuh, ELK Stack, Security Onion
+
+🧪 Lab Work: Cybersecurity operations, network monitoring, NAS and hypervisor infrastructure
+
+📈 Career Objectives
+Advance into a cybersecurity leadership role with emphasis on enterprise security architecture and incident response
+
+Drive initiatives focused on secure digital transformation, business-aligned IT strategy, and automated defense frameworks
+
+Contribute to open-source projects at the intersection of security, automation, and data science
+
+Thank you for visiting—feel free to explore, connect, or collaborate on something meaningful
+
+<!--- MastaPhlash/MastaPhlash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
